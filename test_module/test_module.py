@@ -4,11 +4,11 @@ def test_add():
 
 
 def test_subs():
-    assert 21 - 10 == 10
+    assert 21 - 10 == 11
 
 
 def test_mul():
-    assert 5 * 5 == 24
+    assert 5 * 5 == 25
 
 
 def test_div():
